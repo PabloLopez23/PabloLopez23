@@ -13,9 +13,9 @@
         <h2>Desarrollador de Software</h2>
         <p>Mis habilidades técnicas incluyen:</p>
         <ul>
-            <li>QA y Automatización de Pruebas</li>
-            <li>Desarrollo Full Stack con JavaScript</li>
-            <li>Programación</li>
+            <li>Desarrollo Full Stack JavaScript</li>
+	    <li>QA y Automatización de Pruebas</li>
+	    <li>Programación</li>
             <li>Ciberseguridad</li>
             <li>Gestión de Servidores</li>
             <li>DevOps y Google Cloud</li>
