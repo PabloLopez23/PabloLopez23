@@ -8,7 +8,7 @@
     </header>
     <section id="sobre-mi">
       <a target="_blank" align="center">
-  <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+  <img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 </a>
         <h2>Software Developer</h2>
         <p></p>
