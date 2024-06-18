@@ -20,7 +20,6 @@
         </ul>
          <br />
       <h3 align="left"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture>Frontend Development</h3>
-      <br />
 <p align="center"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="visual_studio_code" width="40" height="40"/> </a></p>
     </section>
 <p align="center"> 
@@ -41,7 +40,6 @@
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
 </p>
-<br />
 <h3 align="left"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture>Tools</h3>
 <p align="center">
   &emsp;
@@ -55,7 +53,6 @@
     &emsp;
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
 </p>
-<br />
 <h3 align="left"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture>Problem Solving</h3>
 <p align="center">
   &emsp;
@@ -65,7 +62,6 @@
   &emsp;
     <a href="#"><img alt = "Google" src="https://img.shields.io/badge/google-%234285F4.svg?style=plastic&logo=google&logoColor=white" /></a>
 </p>
-<br />
 <h3 align="left"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture>Operating Systems</h3>
 <p align="center">
   &emsp;
@@ -75,7 +71,6 @@
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
 </p>
-<br />
 <h3 align="left"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture>IDEs</h3>
 <p align="center">
   &emsp;
@@ -83,7 +78,6 @@
   &emsp;
     <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
 </p>
-<br />
 <p>"More than a year ago I immersed myself in the universe of programming, taking courses and projects on PLATZI, an online learning portal, where I obtained multiple certifications. My knowledge covers a variety of languages ​​such as JavaScript , HTML, CSS, React.js, Git, GitHub, Linux, Docker, etc. At the same time, I have perfected my English level.</p>
         <br />
         <p>In my quest to gain hands-on experience in IT, I joined HENRY (Programming Bootcamp). This experience allowed me to work full-time in a real environment, cooperating with colleagues as a team through Pair Programming and using collaboration tools such as Slack, Discord, Zoom, Meet, Notion, etc.</p>
@@ -91,13 +85,10 @@
         <p>I also had the opportunity to work as a Regional Manager. This role helped me strengthen my leadership skills, managing to work effectively with varied teams and manage highly complex projects.</p>
         <br />
         <P>Currently, I am looking to be part of a company where I can continue developing and growing. My goal is to be able to contribute and gain more experience."</P>
-        <br />
     <footer>
         <p>© 2024 Pablo</p>
     </footer>
-    <br />
   <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
-<br />
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
