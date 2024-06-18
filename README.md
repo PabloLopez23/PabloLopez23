@@ -13,7 +13,6 @@
     <br />
 </a>
         <h2>Software Developer</h2>
-        
         <ul>
             <li>A passionate Self-taught Front-end developer</li>
             <li>Currently learning Web Development by Self</li>
