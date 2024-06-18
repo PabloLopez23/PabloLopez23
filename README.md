@@ -7,14 +7,13 @@
         <h1 align="center">Hello, my name is Pablo</h1>
     </header>
     <section id="sobre-mi">
-    <br />
       <a target="_blank" align="center">
     <br />  
   <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
     <br />
 </a>
         <h2>Software Developer</h2>
-        <p></p>
+        
         <ul>
             <li>A passionate Self-taught Front-end developer</li>
             <li>Currently learning Web Development by Self</li>
