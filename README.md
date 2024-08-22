@@ -12,7 +12,7 @@
 </a>
         <h2>Software Developer</h2>
         <ul>
-            <li><h6 align="left"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture></h6>Passionate about IT</li>
+            <li><h6 align="left"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>Passionate about IT</picture></h6></li>
             <li>Currently learning Web Development by Self</li>
             <li>Always learning</li>
             <li>I’m currently open for an Intern or a new job opportunity</li>
