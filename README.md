@@ -14,7 +14,7 @@
         <ul>
             <li><h6 align="left"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px></picture> Passionate about IT</h6></li>
             <li><h6 align="left"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px></picture> Constantly learning</h6></li>
-            <li>Always learning</li>
+            <li><h6 align="left"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px></picture> Always open to new job opportunities</h6></li>
             <li>I’m currently open for an Intern or a new job opportunity</li>
             <li>Personal website link</li>
         </ul>
