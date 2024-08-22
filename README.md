@@ -13,8 +13,8 @@
         <h2>Software Developer</h2>
         <ul>
             <li><h3 align="left"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px></picture> Passionate about IT</h3></li>
-            <li><h3 align="left"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px></picture> Constantly learning</h3></li>
-            <li><h3 align="left"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px></picture> Always open to new job opportunities</h3></li>
+            <li><h3 align="left"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px></picture> Always open to new job opportunities</h3></li>
+            <li><h3 align="left"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px></picture> Constantly learning</h3></li>
             <li><h3 align="left"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px></picture> Good handling of multiple digital tools</h3></li>
         </ul>
          <br />
