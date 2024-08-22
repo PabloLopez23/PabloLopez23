@@ -33,16 +33,7 @@
     <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-<p>"More than a year ago I immersed myself in the universe of programming, taking courses and projects on PLATZI, an online learning portal, where I obtained multiple certifications. My knowledge covers a variety of languages ​​such as JavaScript , HTML, CSS, React.js, Git, GitHub, Linux, Docker, etc. At the same time, I have perfected my English level.</p>
-        <br />
-        <p>In my quest to gain hands-on experience in IT, I joined HENRY (Programming Bootcamp). This experience allowed me to work full-time in a real environment, cooperating with colleagues as a team through Pair Programming and using collaboration tools such as Slack, Discord, Zoom, Meet, Notion, etc.</p>
-        <br />
-        <p>I also had the opportunity to work as a Regional Manager. This role helped me strengthen my leadership skills, managing to work effectively with varied teams and manage highly complex projects.</p>
-        <br />
-        <P>Currently, I am looking to be part of a company where I can continue developing and growing. My goal is to be able to contribute and gain more experience."</P>
-    <footer>
-        <p>© 2024 Pablo</p>
-    </footer>
+<br />
   <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="center">
 
