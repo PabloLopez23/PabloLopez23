@@ -10,8 +10,7 @@
       <a target="_blank" align="center">
   <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 </a>
-        <h2>Software Developer</h2>
-        <ul>
+	<ul>
             <li><h3 align="left"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px></picture> Passionate about IT</h3></li>
             <li><h3 align="left"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px></picture> Always open to new job opportunities</h3></li>
             <li><h3 align="left"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px></picture> Constantly learning</h3></li>
